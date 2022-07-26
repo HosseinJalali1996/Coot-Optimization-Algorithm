@@ -6,6 +6,6 @@
 
 ## How run this program!!!⏳
 1. Download all files.
-2. Open the `The_Main_COOT` and run it.
-3. finish ✌️ !!! 
+2. Open the `The_Main_COOT` file and run it.
+3. finish ✌️  
 
